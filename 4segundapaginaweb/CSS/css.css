@@ -1,0 +1,37 @@
+body{
+    padding: auto;
+}
+p{
+    text-align: center;
+}
+div{
+    background-color: rgb(106, 136, 88);
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+    margin: 20px ;
+    border: 20px;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: #e0e0e0;
+}
+.blanco{
+    color: #fdfdfd;
+
+}
+.fondorosa{
+    background-color:#f18ba1;
+}
+.img{
+    border: 10px solid #f18ba1 ;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+.p{
+    color: #e0e0e0;
+    background-color: rgb(75, 75, 121);
+    border: 10px solid #f18ba1 ;
+}

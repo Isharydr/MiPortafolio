@@ -1,0 +1,68 @@
+nav {
+  background-color: #e97d7d;
+  /* Color de fondo de la barra de navegación */
+  padding: 10px;
+  /* Espacio alrededor de los elementos de la barra de navegación */
+  text-align: center;
+  font-family: sans-serif;
+  color: green;
+}
+
+ul {
+  list-style-type: none;
+  /* Quita los estilos de lista predeterminados */
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  /* Muestra los elementos de lista como bloques en línea */
+}
+
+li a {
+  display: block;
+  /* Hace que los enlaces ocupen todo el ancho del contenedor */
+  color: white;
+  /* Color de texto de los enlaces */
+  text-decoration: none;
+  /* Quita el subrayado de los enlaces */
+  padding: 10px 20px;
+  /* Espacio alrededor de los enlaces */
+}
+
+li a:hover {
+  background-color: #ebddddf5;
+  /* Cambia el color de fondo al pasar el ratón por encima */
+  color: black;
+}
+
+.container {
+  width: 20%;
+  /* Ancho del contenedor */
+  max-width: 1200px;
+  /* Ancho máximo del contenedor */
+  margin:  auto;
+  /* Centra el contenedor horizontalmente */
+  padding: 20px;
+  /* Espacio alrededor del contenido dentro del contenedor */
+  background-color: #f89292;
+  /* Color de fondo del contenedor */
+  border: 5px solid #83b053;
+  /* Borde del contenedor */
+  border-radius: 50px;
+}
+
+.conte {
+  display: flex;
+  /* Utiliza flexbox para organizar los elementos */
+}
+
+
+.titulo{
+  text-align: center;
+  color: white;
+}
+p{
+  text-align: left;
+}

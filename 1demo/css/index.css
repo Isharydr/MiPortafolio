@@ -1,0 +1,22 @@
+nav {
+  background-color: #e97d7d;
+  /* Color de fondo de la barra de navegación */
+  padding: 10px;
+  /* Espacio alrededor de los elementos de la barra de navegación */
+  text-align: center;
+  font-family: sans-serif;
+  color: green;
+}
+
+
+
+img{
+  width: 30%;
+  height: 30%;
+  padding: 50px;
+  
+
+}
+H3,P{
+  text-align: center;
+}

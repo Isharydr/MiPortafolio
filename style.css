@@ -1,0 +1,74 @@
+nav, header {
+    color: white;
+    background-color: #e24861af;
+}
+
+#navbarNav a{
+    color:white;
+}
+
+.icono {
+    font-size: 3rem; 
+    color: white;
+    background-color: cornflowerblue;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.icono-contacto {
+    font-size: 2rem; 
+    color: black;
+    background-color: white;
+    /*        arriba derecha abajo izq 
+    padding: 0.5rem 1rem 0.5rem 1rem; */
+    padding: 0.8rem 1rem;
+    margin: 1rem;
+    border-radius: 75%;
+}
+
+#icono-footer{
+    font-size: 5rem; 
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.subtitulo-habilidades {
+    margin-top: 16px;
+}
+
+header {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    height: 100vh;
+
+    background-image: url('assets/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Keep the image in place while scrolling */
+    filter: brightness(0.8); /* Adjust the brightness */
+}
+  
+
+#iconos a {
+    padding-top: 16px;
+}
+#testimonios {
+    background-color: #e24861af;
+    /* Cambia el color al que desees */
+    padding: 0px;
+    /* Ajusta el espacio interno según sea necesario */
+    color: white;
+    border-radius: 20px;
+}
+
+.carousel-item img {
+    width: 70px;
+    height: auto;
+    border: 9px solid #448342;
+    /* Ajusta el grosor y el color del borde según tus preferencias */
+    
+}

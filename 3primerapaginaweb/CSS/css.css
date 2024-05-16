@@ -1,0 +1,21 @@
+body{
+    padding: auto;
+}
+nav{
+    text-align: center;
+    background-color: rgba(245, 123, 160, 0.596);
+}
+div{
+    background-color: rgb(106, 136, 88);
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+    margin: 20px ;
+    border-color: rgb(255, 21, 60);
+    border: 20px;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: aliceblue;
+}
